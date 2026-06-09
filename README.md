@@ -45,6 +45,10 @@ CoinGecko API → Data Fetching → Data Cleaning → SQLite Storage → Streaml
 This design ensures modularity and scalability for future versions.
 
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](dashboard_img1.png).
+
 ## ⚡ Quick Start
 
 ```bash
