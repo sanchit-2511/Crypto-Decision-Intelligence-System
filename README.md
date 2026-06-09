@@ -47,7 +47,14 @@ This design ensures modularity and scalability for future versions.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_img1.png).
+![Dashboard Screenshot](https://github.com/sanchit-2511/Crypto-Decision-Intelligence-System/blob/b111223571a8dce169d123d9760d2c23aefd9b5e/images/dashboard_img1.png).
+
+![Dashboard Screenshot](https://github.com/sanchit-2511/Crypto-Decision-Intelligence-System/blob/b111223571a8dce169d123d9760d2c23aefd9b5e/images/dashboard_img2.png).
+
+![Dashboard Screenshot](https://github.com/sanchit-2511/Crypto-Decision-Intelligence-System/blob/b111223571a8dce169d123d9760d2c23aefd9b5e/images/dashboard_img3.png).
+
+![Dashboard Screenshot](https://github.com/sanchit-2511/Crypto-Decision-Intelligence-System/blob/b111223571a8dce169d123d9760d2c23aefd9b5e/images/dashboard_img4.png).
+
 
 ## ⚡ Quick Start
 
